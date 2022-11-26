@@ -1,0 +1,21 @@
+{
+  "name": "NSCyberDemo",
+  "main": "app/app.js",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript/canvas": "^1.1.0-alpha.2",
+    "@nativescript/canvas-media": "^1.1.0-alpha.2",
+    "@nativescript/canvas-polyfill": "^1.1.0-alpha.2",
+    "@nativescript/canvas-three": "^1.1.0-alpha.2",
+    "@nativescript/core": "^8.3.6",
+    "@nativescript/theme": "~3.0.2",
+    "gsap": "^3.11.3",
+    "nativescript-audio": "^6.2.6",
+    "three": "^0.133.1"
+  },
+  "devDependencies": {
+    "@nativescript/android": "^8.4.0-alpha.7",
+    "@nativescript/webpack": "~5.0.10"
+  }
+}
