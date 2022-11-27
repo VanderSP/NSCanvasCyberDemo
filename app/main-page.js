@@ -183,6 +183,7 @@ export function topReady(event) {
     alpha: true,
     antialias: false,
     stencil: false,
+    depth: false,
   });
   topRenderer = new WebGLRenderer({ context });
   topCanvas.top = "-1225px";
