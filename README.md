@@ -15,3 +15,5 @@ The code is not too pretty, also shoud note few more points:
 - Nativescript Audio Player "loop: true" still not fixed until today, so i detect the intro music ended to replay it.
 
 So... as @NathanWalker mentioned, this repo can be used to do some test and tweaks, helping to fix bugs and also contributing for the process of streamline NSCanvas across multiplatforms.
+
+https://github.com/NativeScript/canvas/tree/v1.1.0
